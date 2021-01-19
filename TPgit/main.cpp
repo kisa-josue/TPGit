@@ -23,6 +23,9 @@ int main(int argc, char** argv) {
     cout << "bonjour"<<endl;
     
     cout<<"hello world"<<endl;
+    cout<<"bonjour je m'appele aurevoir"<<endl;
+    
+    
     return 0;
 }
 
